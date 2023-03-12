@@ -1,6 +1,6 @@
 # Test-Targ-questoes
  
-A linguagem de progrmação usada para responder as questões foi Javascript.
+A linguagem de programação usada para responder as questões foi Javascript.
 
 Questões do teste:
 
